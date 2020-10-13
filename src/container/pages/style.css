@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alegreya Sans';
+}
+
+.black { color: black }
+.dark-red { color: #AF0404 }
+.grey { color: #414141 }
+.light-red { color: #FF0000 }
+
+.bolder { font-weight: bolder; }
+.bold { font-weight: bold; }
+
+.text-center {
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
